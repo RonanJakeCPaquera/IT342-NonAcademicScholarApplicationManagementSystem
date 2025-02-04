@@ -1,1 +1,1 @@
-# IT342-NonAcademicScholar
+# IT342-NonAcademicScholarApplicationManagmentSystem
