@@ -1,7 +1,4 @@
 # IT342-NonAcademicScholarApplicationManagementSystem
-Team Members:
-Ronan Jake C. Paquera
-
 
 
 Name: Ronan Jake C. Paquera
